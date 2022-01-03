@@ -6,10 +6,22 @@ using System.Threading.Tasks;
 
 namespace Tetris
 {
-    class Point
+    public class Point
     {
         public int x, y;
         public char c;
+
+        public Point(int a, int b, char sym)
+        {
+            x = a;
+            y = b;
+            c = sym;
+        }
+
+        public Point()
+        {
+
+        }
 
         public void Draw()
         {

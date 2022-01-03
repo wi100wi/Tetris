@@ -1,0 +1,11 @@
+C:\Users\Arina\Downloads\Tetris\Tetris\Collections\bin\Debug\Collections.exe.config
+C:\Users\Arina\Downloads\Tetris\Tetris\Collections\bin\Debug\Collections.exe
+C:\Users\Arina\Downloads\Tetris\Tetris\Collections\bin\Debug\Collections.pdb
+C:\Users\Arina\Downloads\Tetris\Tetris\Collections\bin\Debug\Tetris.exe
+C:\Users\Arina\Downloads\Tetris\Tetris\Collections\bin\Debug\Tetris.pdb
+C:\Users\Arina\Downloads\Tetris\Tetris\Collections\bin\Debug\Tetris.exe.config
+C:\Users\Arina\Downloads\Tetris\Tetris\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\Arina\Downloads\Tetris\Tetris\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Arina\Downloads\Tetris\Tetris\Collections\obj\Debug\Collections.csproj.CopyComplete
+C:\Users\Arina\Downloads\Tetris\Tetris\Collections\obj\Debug\Collections.exe
+C:\Users\Arina\Downloads\Tetris\Tetris\Collections\obj\Debug\Collections.pdb
