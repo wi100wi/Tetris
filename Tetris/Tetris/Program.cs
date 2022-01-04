@@ -29,6 +29,9 @@ namespace Tetris
 
             square1.Draw();
 
+            Stick stick1 = new Stick(6, 6, '*');
+
+            stick1.Draw();
 
             Console.ReadLine();
         }
